@@ -1,1 +1,1 @@
-# pyconfig-variables
+# pyconfigvars
