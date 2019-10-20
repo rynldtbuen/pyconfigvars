@@ -1,3 +1,3 @@
-pyconfigvars/__pycache__
-pyconfigvars/configure/__pycache__
-pyconfigvars/pyconfigvars.egg-info
+pyconfigvars/__pycache__/
+pyconfigvars/configure/__pycache__/
+pyconfigvars/pyconfigvars.egg-info/
