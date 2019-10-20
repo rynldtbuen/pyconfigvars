@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: pyconfigvars
+Version: 0.1
+Summary: 
+        Transform and simplify configuration variables.
+        
+Home-page: UNKNOWN
+Author: Reynold Tabuena
+Author-email: rynldtbuen@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
+Classifier: License :: OSI Approved :: MIT License
